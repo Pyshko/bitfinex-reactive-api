@@ -7,7 +7,10 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "outDir": "lib",
-    "baseUrl": "./src"
+    "baseUrl": "./src",
+    "types": [
+      "node"
+    ]
   },
   "include": [
     "src/**/*"

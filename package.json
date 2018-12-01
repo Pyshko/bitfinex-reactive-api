@@ -1,0 +1,22 @@
+{
+  "name": "bitfinex-reactive-api",
+  "version": "0.0.0",
+  "description": "Bitfinex reactive node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pyshko/bitfinex-reactive-api.git"
+  },
+  "keywords": [
+    "bitfinex"
+  ],
+  "author": "Maxim Pyshko (just.short.id@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pyshko/bitfinex-reactive-api/issues"
+  },
+  "homepage": "https://github.com/Pyshko/bitfinex-reactive-api#readme"
+}
